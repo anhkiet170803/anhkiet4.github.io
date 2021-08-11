@@ -1,0 +1,127 @@
+@charset "urf-8";
+
+body{
+    background: linear-gradient(to right, rgb(150, 14, 150), Orange);
+    margin-top: 80px;
+}
+table{
+    border-collapse: collapse;
+    margin: auto;
+    border: hidden;
+    background-color: white;
+    width: 1000px;
+    height: 550px;
+}
+#doan2{
+    padding-left: 50px;
+    font-weight: bold;
+    border-top: hidden;
+    border-bottom: hidden;
+    border: hidden;
+}
+#dong1{
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    border: hidden;
+    padding-left: 90px;
+}
+#div1{
+    color: white;
+    font-size: 20px;   
+    padding-left: 150px; 
+    line-height: 30px; 
+    width: 200px;
+}
+#div2{
+    color: white;
+    font-size: small;
+    width: 260px;
+    text-align: left;
+    padding-left: 150px;
+    border-right: hidden;
+}
+#doan1{
+    width: 500px;
+    background: linear-gradient(to right, Orange, rgb(150, 14, 150));
+}
+#submit{
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    position: absolute;
+    cursor: pointer;
+    background: linear-gradient(to right, Orange, rgb(150, 14, 150)) ;
+    width: 250px;
+    height: 30px;
+}
+#dong2{
+    padding-left: 30px;
+    border: hidden;
+}
+#kiet1{
+    width: 100px;
+}
+#tex4{
+    padding-left: 50px;
+    border: hidden;
+}
+#text1{
+    height: 30px;
+    width: 200px ;
+    border-radius: 10px;
+    border: solid whitesmoke 1px;
+}
+#tex1{
+    padding-left: 50px;
+    border: hidden;
+}
+#text2{
+    height: 30px;
+    border-radius: 10px;
+    border: solid whitesmoke 1px;
+    width: 200px ;
+}
+#dong3{
+    font-size: small;
+    color: grey;
+    border: hidden;
+    padding-left: 110px;
+}
+#dong4{
+    font-size: 14px;
+    text-align: left;
+    border: hidden;
+}
+#label2{
+    font-size: 14px;
+}
+#submit2{
+    cursor: pointer;
+    border-radius: 20px;
+    height: 30px;
+    width: 110px;
+    border: rgb(199, 14, 199) solid 3px;
+    background-color: white;
+}
+#dong5{
+    border: hidden;
+}
+#kiet2{
+    border: hidden;
+}
+#dong6{
+    border: hidden;
+}
+#dong4{
+    padding-left: 30px;
+}
+#dong7{
+    border:hidden;
+}
+#div3{
+    padding-left: 18px;
+}
+#div4{
+    padding-left: 35px;
+}
